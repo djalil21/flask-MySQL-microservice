@@ -1,0 +1,17 @@
+{"NIN": "1",
+"email": "mohamed.herouini@univ-constantine2.dz",
+"prenom": "Mohamed",
+"nom": "Herouini",
+"tel": "0779701922"}
+
+{"NIN":"3",
+"nom":"Chenafi",
+"prenom":"seif",
+"email":"seifeddine.chenafi@univ-constantine2.dz",
+"tel":"0778791500"}
+
+{"NIN":"4",
+"nom":"Bouregbi",
+"prenom":"seif",
+"email":"seifeddine.bouragbi@univ-constantine2.dz",
+"tel":"078645321"}
